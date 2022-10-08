@@ -1,0 +1,12 @@
+[submodule "packages3d"]
+	path = packages3d
+	url = https://github.com/m2robocon/KiCad-Packages3D
+[submodule "footprints"]
+	path = footprints
+	url = https://github.com/m2robocon/KiCad-Footprints
+[submodule "templates"]
+	path = templates
+	url = https://github.com/m2robocon/Kicad-Templates
+[submodule "symbols"]
+	path = symbols
+	url = https://github.com/m2robocon/KiCad-Symbols
